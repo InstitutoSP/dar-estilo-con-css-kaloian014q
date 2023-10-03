@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(15, 215, 241);
+    color:darkviolet;
+    padding: 20px;  
+}
+
+nav ul {
+    list-style-type:  none
+}
+   
+nav li{
+    display: inline
+}
+nav a{
+    color:dimgray
+}
+main{
+padding:20px;
+}
+section{
+    margin-bottom:40px;
+}
+footer{
+    backround: color #555;
+}
